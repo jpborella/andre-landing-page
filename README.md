@@ -20,6 +20,8 @@
 
 Esta landing page foi desenvolvida com foco em **performance**, **responsividade** e **experiência do usuário**. O projeto demonstra habilidades em desenvolvimento front-end moderno, utilizando uma stack tecnológica atual e práticas de código limpo. 
 
+**Observação:** Este projeto é um fork direto da ‘Landing Page - Ana Paula Farias’. As alterações principais estão na apresentação dos produtos: cards, modais e conteúdos relacionados foram atualizados, enquanto a estrutura, arquitetura e demais funcionalidades originais foram mantidas.
+
 ### 🎯 Objetivo
 
 Criar uma solução prática para apresentação de produtos através de QR Code, permitindo acesso rápido e intuitivo a informações comerciais, ideal para ambientes de vendas presenciais.
@@ -69,7 +71,8 @@ andre-landing-page/
 │   │   ├── Products.tsx
 │   │   ├── ProductCard.tsx
 │   │   ├── ProductModal.tsx
-│   │   ├── FinancialProducts.tsx
+│   │   ├── MainSolutions.tsx
+│   │   ├── ModulesModal.tsx
 │   │   ├── Footer.tsx
 │   │   └── SocialIcons.tsx
 │   ├── data.ts          # Dados e configurações
@@ -96,8 +99,11 @@ Seção de apresentação com foto e informações do vendedor.
 ### Products
 Catálogo de produtos com cards clicáveis que abrem modais com detalhes.
 
-### FinancialProducts
-Seção dedicada para produtos financeiros.
+### MainSolutions
+Seção dedicada às soluções principais do projeto, apresentando benefícios, destaques e informações detalhadas sobre ofertas e pacotes.
+
+### ModulesModal
+Modal para apresentação de módulos/recursos com conteúdo expandido e detalhes interativos para o usuário.
 
 ### Footer
 Rodapé com links de contato e informações de copyright.
@@ -137,5 +143,5 @@ Este projeto é privado e foi desenvolvido para uso específico.
 ---
 
 <div align="center">
-  <p>⭐ Se você gostou desse porjeto, considere dar uma estrela!</p>
+  <p>⭐ Se você gostou desse projeto, considere dar uma estrela!</p>
 </div>
