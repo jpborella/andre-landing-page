@@ -2,7 +2,7 @@
   "name": "landing-andre-souza",
   "version": "0.1.0",
   "private": true,
-  "homepage": "andre",
+  "homepage": "/andre/",
   "type": "module",
   "scripts": {
     "dev": "vite",
