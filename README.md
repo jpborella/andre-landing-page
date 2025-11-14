@@ -19,8 +19,7 @@
 ## 📋 Sobre o Projeto
 
 Esta landing page foi desenvolvida com foco em **performance**, **responsividade** e **experiência do usuário**. O projeto demonstra habilidades em desenvolvimento front-end moderno, utilizando uma stack tecnológica atual e práticas de código limpo. 
-
-**Observação:** Este projeto é um fork direto da ‘Landing Page - Ana Paula Farias’. As alterações principais estão na apresentação dos produtos: cards, modais e conteúdos relacionados foram atualizados, enquanto a estrutura, arquitetura e demais funcionalidades originais foram mantidas.
+**Observação:** Este projeto é um fork direto da [Landing Page - Ana Paula Farias](https://github.com/jpborella/ana-landing-page). As alterações principais estão na apresentação dos produtos — cards, modais e conteúdos relacionados foram atualizados, enquanto a estrutura, arquitetura e demais funcionalidades originais foram mantidas.
 
 ### 🎯 Objetivo
 
